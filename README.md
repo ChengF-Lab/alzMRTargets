@@ -3,7 +3,7 @@
 A framework illustrating Mendelian Randomization (MR) analysis using Alzheimer’s disease (AD) as a prototypical example. The MR analysis workflow includes two parallel parts. 
 
 # MR-models
-The steps of MR-models for drug target identification and validation. The instrumental variables (IVs) corresponding to 1,176 druggable targets were selected from 3 protein quantitative trait loci (pQTL) and 9 expression quantitative trait loci (eQTL) datasets across 5 brain regions. In total, seven GWAS summary statistic datasets with 275,540 AD cases and 1.55 million controls (both African American and European American) were used as outcome datasets. Five MR methods were used to enhance the reproducibility and scientific rigor of drug target findings. 
+The steps of MR-models for drug target identification and validation. The instrumental variables (IVs) corresponding to 1,176 druggable targets were selected from 3 protein quantitative trait loci (pQTL) and 9 expression quantitative trait loci (eQTL) datasets across 5 brain regions. In total, seven GWAS summary statistic datasets were used as outcome datasets. Five MR methods were used to enhance the reproducibility and scientific rigor of drug target findings. 
 
 # Code:
 	1_preprocessing.ipynb
